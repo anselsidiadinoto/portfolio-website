@@ -9,102 +9,200 @@ export default function Home() {
   return (
 
     <div className="mt-[130px] ml-[30px] pl-[35px]">
-      <div className="relative bg-green-200">
-        <Link 
-          className={`w-[230px] h-[386px] absolute left-[0px] top-[23px]`}
-          href="/culinary_promenade"
+
+      <div className="relative">
+
+        <Link
+          className={`w-[235px] h-[360px] absolute left-[0px] top-[0px text-white hover:text-black`}
+          href="/projects/architecture/culinary_promenade"
         >
-          <Image 
+          <Image
               src="/assets/Architecture/1_Culinary_Promenade/1.png"
               alt="culinary_promenade"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Culinary</p>
+            <p className="font-medium">Promenade</p>
+          </div>
         </Link>
 
 
+
+
         <Link 
-          className={`w-[219px] h-[208px] absolute left-[267px] top-[0px]`}
-          href="/expandable_apartments"
+          className={`w-[237px] h-[257px] absolute left-[258px] top-[0px] text-white hover:text-black `}
+          href="/projects/architecture/expandable_apartments"
         >
           <Image 
               src="/assets/Architecture/2_Expandable_Apartments/1.png"
               alt="expandable_apartments"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images z-0"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Expandable</p>
+            <p className="font-medium">Apartments</p>
+          </div>
         </Link>
 
 
 
         <Link 
-          className={`w-[257px] h-[145px] absolute left-[514px] top-[23px]`}
-          href="/"
+          className={`w-[236px] h-[224px] absolute left-[518px] top-[0px] text-white hover:text-black`}
+          href="/projects/web_design/cheatday"
         >
           <Image 
-              src="/assets/Web design/Cheatday/home.png"
+              src="/assets/Web_design/Cheatday/site_images/cheatday_home.png"
               alt="cheatday_donuts"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Cheatday</p>
+            <p className="font-medium">Donuts</p>
+          </div>
         </Link>
 
         <Link 
-          className={`w-[255px] h-[185px] absolute left-[285px] top-[237px]`}
-          href="/"
+          className={`w-[237px] h-[147px] absolute left-[258px] top-[280px] text-white hover:text-black`}
+          href="/projects/architecture/transitional_geometries"
         >
           <Image 
               src="/assets/Architecture/3_Undulating_Transitional_Geometries/1b.png"
               alt="transitional_geometries"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Transitional</p>
+            <p className="font-medium">Geometries</p>
+          </div>
         </Link>
 
         <Link 
-          className={`w-[223px] h-[248px] absolute left-[577px] top-[208px]`}
-          href="/"
+          className={`w-[236px] h-[228px] absolute left-[518px] top-[247px] text-white hover:text-black`}
+          href="/projects/architecture/sensory_alleviation_chamber"
         >
           <Image 
               src="/assets/Architecture/5_NYC_Sendory_Alleviation_part_2/1.png"
               alt="sensory_alleviation_chamber"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Sensory</p>
+            <p className="font-medium">Alleviation</p>
+            <p className="font-medium">Chamber</p>
+          </div>
         </Link>
 
         <Link 
-          className={`w-[283px] h-[207px] absolute left-[24px] top-[462px]`}
-          href="/"
+          className={`w-[237px] h-[190px] absolute left-[518px] top-[498px] text-white hover:text-black`}
+          href="/projects/architecture/sensory_alleviation_pods"
         >
           <Image 
               src="/assets/Architecture/4_NYC_Sensory_Alleviation_part_1/home.png"
-              alt="sensory_alleviation_chamber"
+              alt="sensory_alleviation_pods"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Sensory</p>
+            <p className="font-medium">Alleviation</p>
+            <p className="font-medium">Pods</p>
+          </div>
         </Link>
 
         <Link 
-          className={`w-[354px] h-[170px] absolute left-[354px] top-[500px]`}
+          className={`w-[236px] h-[229px] absolute left-[259px] top-[442px] text-white hover:text-black`}
           href="/"
         >
           <Image 
-              src="/assets/Web design/Shapearoo/home.png"
+              src="/assets/Web_design/Shapearoo/site_images/shapearoo_home.png"
               alt="shapearoo"
               fill
               style={ {objectFit: "cover"} }
-              className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
+              className="home_images"
           />
+          <div className="home_images_text">
+            <p className="font-medium">Shapearoo</p>
+          </div>
         </Link>
 
+        <Link 
+          className={`w-[235px] h-[151px] absolute left-[0px] top-[383px] text-white hover:text-black`}
+          href="/projects/architecture/parisian_hamster_hide"
+        >
+          <Image 
+              src="/assets/Architecture/9_hamster_house/hamster-9.jpg"
+              alt="hamster hide"
+              fill
+              style={ {objectFit: "cover"} }
+              className="home_images"
+          />
+          <div className="home_images_text">
+            <p className="font-medium">Parisian</p>
+            <p className="font-medium">Hamster Hide</p>
+          </div>
+        </Link>
 
+        <Link 
+          className={`w-[236px] h-[272px] absolute left-[0px] top-[557px] text-white hover:text-black`}
+          href="/projects/architecture/urban_oasis"
+        >
+          <Image 
+              src="/assets/Architecture/8_Therme/therme_1.png"
+              alt="urban_oasis"
+              fill
+              style={ {objectFit: "cover"} }
+              className="home_images"
+          />
+          <div className="home_images_text">
+            <p className="font-medium">Urban</p>
+            <p className="font-medium">Oasis</p>
+          </div>
+        </Link>
+
+        <Link 
+          className={`w-[237px] h-[144px] absolute left-[259px] top-[685px] text-white hover:text-black`}
+          href="/projects/architecture/damen_green_metro"
+        >
+          <Image 
+              src="/assets/Architecture/6_Perkins_and_Will/East-View.jpg"
+              alt="shapearoo"
+              fill
+              style={ {objectFit: "cover"} }
+              className="home_images"
+          />
+          <div className="home_images_text">
+            <p className="font-medium">Damen Green</p>
+            <p className="font-medium">Metro Station</p>
+          </div>
+        </Link>
+
+        <Link 
+          className={`w-[235px] h-[119px] absolute left-[519px] top-[711px] text-white hover:text-black`}
+          href="/"
+        >
+          <Image 
+              src="/assets/Architecture/10_model_making/model_15.jpg"
+              alt="shapearoo"
+              fill
+              style={ {objectFit: "cover"} }
+              className="home_images"
+          />
+          <div className="home_images_text">
+            <p className="font-medium">Modelmaking</p>
+          </div>
+        </Link>
         
     
         {/* <HomeImage

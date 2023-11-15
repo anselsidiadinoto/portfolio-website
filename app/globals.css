@@ -40,7 +40,13 @@ body {
     @apply w-[440px]
   }
 
+  .home_images {
+    @apply transition-all hover:cursor-pointer hover:opacity-30
+  }
 
+  .home_images_text {
+    @apply flex flex-col h-full justify-center items-center font_primary text-[30px]
+  }
   
   
 }

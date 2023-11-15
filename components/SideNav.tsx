@@ -5,7 +5,12 @@ import Link from "@/node_modules/next/link"
 const SideNav = () => {
   return (
     <nav className="font_primary font-extralight w-[300px] flex flex-col">
-      <div className="text-[48px] underline decoration-2">Projects</div>
+      <Link
+        className="text-[48px] underline decoration-2 hover:font-normal"
+        href="/"
+      > 
+        Projects
+      </Link>
       <div className="text-[40px]">architecture</div>
 
       {SIDE_NAV_ARCHITECTURE.map((link) => (
