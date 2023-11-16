@@ -13,7 +13,7 @@ const page = () => {
         
         <div className="h-[700px] w-[420px] relative">
           <Image 
-            src="/assets/Web_design/shapearoo/site_images/shapearoo_cover_crop.png"
+            src="/assets/Web_design/Shapearoo/site_images/shapearoo_cover_crop.png"
             alt="shapearoo cover"
             fill
             style={ {objectFit: 'cover'} } 
@@ -77,7 +77,7 @@ const page = () => {
       <div className="flex mt-5">
         <div className="w-[700px] h-[800px] relative">
           <Image
-            src="/assets/Web_design/shapearoo/shapearoo_routes.png"
+            src="/assets/Web_design/Shapearoo/shapearoo_routes.png"
             alt="shapearoo routing diagram"
             fill
             style={ {objectFit: "contain"} }
@@ -93,7 +93,7 @@ const page = () => {
           <div>
             <div className="w-[360px] h-[380px] relative border">
               <Image
-                src="/assets/Web_design/shapearoo/site_images/shapearoo_cover.png"
+                src="/assets/Web_design/Shapearoo/site_images/shapearoo_cover.png"
                 alt="shapearoo home"
                 fill
                 style={ {objectFit: "contain"} }
@@ -118,7 +118,7 @@ const page = () => {
           <div>
             <div className="w-[360px] h-[300px] relative border">
               <Image
-                src="/assets/Web_design/shapearoo/site_images/shapearoo_1.png"
+                src="/assets/Web_design/Shapearoo/site_images/shapearoo_1.png"
                 alt="shapearoo item"
                 fill
                 style={ {objectFit: "contain"} }
@@ -138,7 +138,7 @@ const page = () => {
           <div>
             <div className="w-[360px] h-[300px] relative border">
               <Image
-                src="/assets/Web_design/shapearoo/site_images/shapearoo_2.png"
+                src="/assets/Web_design/Shapearoo/site_images/shapearoo_2.png"
                 alt="shapearoo designer"
                 fill
                 style={ {objectFit: "contain"} }
@@ -163,7 +163,7 @@ const page = () => {
           <div>
             <div className="w-[360px] h-[300px] relative border">
               <Image
-                src="/assets/Web_design/shapearoo/site_images/shapearoo_3.png"
+                src="/assets/Web_design/Shapearoo/site_images/shapearoo_3.png"
                 alt="shapearoo shop"
                 fill
                 style={ {objectFit: "contain"} }
@@ -183,7 +183,7 @@ const page = () => {
           <div>
             <div className="w-[360px] h-[300px] relative border">
               <Image
-                src="/assets/Web_design/shapearoo/site_images/shapearoo_4.png"
+                src="/assets/Web_design/Shapearoo/site_images/shapearoo_4.png"
                 alt="shapearoo cart"
                 fill
                 style={ {objectFit: "contain"} }
@@ -214,7 +214,7 @@ const page = () => {
       <div className="flex mt-0">
         <div className="w-[800px] h-[700px] relative">
           <Image
-            src="/assets/Web_design/shapearoo/shapearoo_schema.png"
+            src="/assets/Web_design/Shapearoo/shapearoo_schema.png"
             alt="shapearoo database schema"
             fill
             style={ {objectFit: "contain"} }
