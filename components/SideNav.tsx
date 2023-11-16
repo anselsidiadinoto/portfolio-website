@@ -55,8 +55,7 @@ const SideNav = () => {
           <Link
             href={link.href}
             key={link.key}
-            className={`hover:link_hover_light text-[18px] font-extralight text-gray-400
-                        ${pathname == link.href ? "link_hover_light underline" : ""} `}
+            className={`hover:link_hover_light text-[18px] font-extralight text-gray-400 ${pathname == link.href ? "link_hover_light underline" : ""} `}
           >
             {link.label}
           </Link >
@@ -70,8 +69,7 @@ const SideNav = () => {
           <Link
             href={link.href}
             key={link.key}
-            className={`hover:link_hover_light text-[18px] font-extralight text-gray-400
-                        ${pathname == link.href ? "link_hover_light underline" : ""} `}
+            className={`hover:link_hover_light text-[18px] font-extralight text-gray-400${pathname == link.href ? "link_hover_light underline" : ""} `}
           >
             {link.label}
           </Link >

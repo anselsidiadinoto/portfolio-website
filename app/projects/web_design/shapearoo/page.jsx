@@ -27,8 +27,7 @@ const page = () => {
             subtitle="3D printing platform for architects and designers"
             description= "HTML, Javascript, CSS, Node, Express, PostgreSQL"
           />
-          <div className="mt-4 border border-black flex justify-center py-1 cursor-pointer
-                          hover:text-white hover:border-black hover:bg-black">
+          <div className="mt-4 border border-black flex justify-center py-1 cursor-pointer hover:text-white hover:border-black hover:bg-black">
             <a 
               target="_blank"
               href="https://github.com/anselsidiadinoto/shapearoo-demo"

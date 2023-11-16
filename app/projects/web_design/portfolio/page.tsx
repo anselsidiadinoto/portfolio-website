@@ -28,8 +28,7 @@ const page = () => {
             subtitle="A showcase of my architecture and web design work"
             description= "Next.js, React, Typescript, TailwindCSS"
           />
-          <div className="mt-4 border border-black flex justify-center py-1 cursor-pointer
-                          hover:text-white hover:border-black hover:bg-black">
+          <div className="mt-4 border border-black flex justify-center py-1 cursor-pointer hover:text-white hover:border-black hover:bg-black">
             <a 
               target="_blank"
               href="https://github.com/anselsidiadinoto/portfolio-website"
