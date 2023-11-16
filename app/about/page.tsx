@@ -70,7 +70,7 @@ const page = () => {
             />
             <a
               target="_blank"
-              href="https://github.com/anselsidiadinoto"
+              href="https://www.linkedin.com/in/ansel-sidiadinoto-b56bb0105/"
               rel="noopener noreferrer"
               className="font_primary ml-2 pt-[5px]"
             >
