@@ -177,7 +177,7 @@ export default function Home() {
         >
           <Image 
               src="/assets/Architecture/6_Perkins_and_Will/East-View.jpg"
-              alt="shapearoo"
+              alt="damen green metro"
               fill
               style={ {objectFit: "cover"} }
               className="home_images"
@@ -194,7 +194,7 @@ export default function Home() {
         >
           <Image 
               src="/assets/Architecture/10_model_making/model_15.jpg"
-              alt="shapearoo"
+              alt="modelmaking"
               fill
               style={ {objectFit: "cover"} }
               className="home_images"

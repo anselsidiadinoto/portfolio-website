@@ -40,9 +40,9 @@ const SideNav = () => {
             About
           </div>
         ) : (
-          <div className="text-[48px] underline decoration-2">
+          <Link className="text-[48px] underline decoration-2 hover:font-normal" href="/">
             Projects
-          </div>
+          </Link>
         )}
 
       
