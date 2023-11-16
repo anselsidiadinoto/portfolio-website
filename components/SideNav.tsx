@@ -53,7 +53,6 @@ const SideNav = () => {
         </div>
         {SIDE_NAV_ARCHITECTURE.map((link) => (
           <Link
-            to="#"
             href={link.href}
             key={link.key}
             className={`hover:link_hover_light text-[18px] font-extralight text-gray-400
