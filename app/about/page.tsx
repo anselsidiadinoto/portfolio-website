@@ -34,7 +34,20 @@ const page = () => {
           </div>
         </div>
 
-        <div className="mt-24 flex gap-3 ">
+
+
+        <div className="mt-32 text-[24px] underline">
+          Skills
+        </div>
+
+        <div>
+          <div className="mt-2 font_primary text-[18px]">
+            Java, Phyton, React, Typescript, Next.js, TailwindCSS, PostgreSQL, HTML, CSS, Javascript
+          </div>
+        </div>
+
+
+        <div className="mt-4 flex gap-3 ">
           <div className="border border-black flex justify-center items-center py-1 cursor-pointer w-32 h-12
                             hover:text-white hover:border-black hover:bg-black">
             <FaGithub
@@ -64,21 +77,6 @@ const page = () => {
               LinkedIn
             </a>
           </div>
-
-
-        </div>
-
-
-        <div className="mt-10 text-[24px] underline">
-          Skills
-        </div>
-
-        <div>
-          <div className="mt-2 font_primary text-[18px]">
-            Java, Phyton, React, Typescript, Next.js, TailwindCSS, PostgreSQL, HTML, CSS, Javascript
-          </div>
-          
-
         </div>
 
         <div className="mt-8 text-[24px] underline">

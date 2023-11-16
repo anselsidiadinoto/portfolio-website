@@ -24,8 +24,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Culinary</p>
-            <p className="font-medium">Promenade</p>
+            <p>Culinary</p>
+            <p>Promenade</p>
           </div>
         </Link>
 
@@ -44,8 +44,8 @@ export default function Home() {
               className="home_images z-0"
           />
           <div className="home_images_text">
-            <p className="font-medium">Expandable</p>
-            <p className="font-medium">Apartments</p>
+            <p>Expandable</p>
+            <p>Apartments</p>
           </div>
         </Link>
 
@@ -63,8 +63,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Cheatday</p>
-            <p className="font-medium">Donuts</p>
+            <p>Cheatday</p>
+            <p>Donuts</p>
           </div>
         </Link>
 
@@ -80,8 +80,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Transitional</p>
-            <p className="font-medium">Geometries</p>
+            <p>Transitional</p>
+            <p>Geometries</p>
           </div>
         </Link>
 
@@ -97,9 +97,9 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Sensory</p>
-            <p className="font-medium">Alleviation</p>
-            <p className="font-medium">Chamber</p>
+            <p>Sensory</p>
+            <p>Alleviation</p>
+            <p>Chamber</p>
           </div>
         </Link>
 
@@ -115,9 +115,9 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Sensory</p>
-            <p className="font-medium">Alleviation</p>
-            <p className="font-medium">Pods</p>
+            <p>Sensory</p>
+            <p>Alleviation</p>
+            <p>Pods</p>
           </div>
         </Link>
 
@@ -133,7 +133,7 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Shapearoo</p>
+            <p>Shapearoo</p>
           </div>
         </Link>
 
@@ -149,8 +149,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Parisian</p>
-            <p className="font-medium">Hamster Hide</p>
+            <p>Parisian</p>
+            <p>Hamster Hide</p>
           </div>
         </Link>
 
@@ -166,8 +166,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Urban</p>
-            <p className="font-medium">Oasis</p>
+            <p>Urban</p>
+            <p>Oasis</p>
           </div>
         </Link>
 
@@ -183,8 +183,8 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Damen Green</p>
-            <p className="font-medium">Metro Station</p>
+            <p>Damen Green</p>
+            <p>Metro Station</p>
           </div>
         </Link>
 
@@ -200,7 +200,7 @@ export default function Home() {
               className="home_images"
           />
           <div className="home_images_text">
-            <p className="font-medium">Modelmaking</p>
+            <p>Modelmaking</p>
           </div>
         </Link>
         
