@@ -29,7 +29,7 @@ const HomeImage = ({ src, alt, top, left, width, height, fit, redirect_link }: H
           src={src}
           alt={alt}
           fill
-          style={ {objectFit: `${fit}`} }
+          style={ {objectFit: 'cover'} }
           className="opacity-80 transition-all hover:cursor-pointer hover:opacity-100"
           quality={100}
         />
