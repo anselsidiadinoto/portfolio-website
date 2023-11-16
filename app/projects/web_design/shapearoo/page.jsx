@@ -1,5 +1,5 @@
 import LinkButton from '@/components/LinkButton'
-import ProjectCoverImage from '@/components/projectCoverImage'
+import ProjectCoverImage from '@/components/ProjectCoverImage'
 import ProjectHeader from '@/components/ProjectHeader'
 import ProjectParagraph from '@/components/ProjectParagraph'
 import Image from '@/node_modules/next/image'
