@@ -12,7 +12,7 @@ const page = () => {
         <div className="w-full h-[609px] relative">
           <Image
             src="/assets/Architecture/8_Therme/therme_1.png"
-            alt="sensory deprivation chamber diagram"
+            alt="urban oasis visualization"
             fill
             style={ {objectFit: "contain"} }
           />
@@ -22,7 +22,7 @@ const page = () => {
 
       <div className="flex justify-between">
         <div>
-          <p className="font_desc mt-0">Integrated wellness centers</p>
+          <p className="font_desc mt-0">Visualization of an integrated wellness center</p>
         </div>
         <div>
           <ProjectHeader
@@ -33,11 +33,11 @@ const page = () => {
               "These visualizations are conceptual design explorations on adapting the communal wellness centers of Europe into the heart of US metropolitan areas"
           />
           <ProjectParagraph
-            text="Bathing culture has been an integral part of many communities for thousands of years. From the ancient roman baths and Russian banyas, , to modern wellness facilities such as those built by Therme Group, communities flock these bathing centers because they represent more than just mere cleanliness. Of course before the advent of modern sanitation and plumbing, bathhouses were the only way to maintain hygiene. But overtime, bathhouses persists because they also provide a sense of spiritual cleansing through its tangible properties, such as the water composition - a lot of bathhouses sit on natural springs which contains certain water minerals that heal, and also intangible benefits such as providing a space for maintaining relationships with the community and family."
+            text="Bathing culture has been an integral part of many communities for thousands of years. From the ancient Roman baths and Russian banyas, to modern wellness facilities such as those built by Therme Group, communities flock to these bathing centers because they represent more than just mere cleanliness. Of course, before the advent of modern sanitation and plumbing, bathhouses were the only way to maintain hygiene. But over time, bathhouses persist because they also provide a sense of spiritual cleansing through their tangible properties, such as the water composition - a lot of bathhouses sit on natural springs which contain certain water minerals that heal, and also intangible benefits such as providing a space for maintaining relationships with the community and family."
             className="mt-5"
           />
           <ProjectParagraph
-            text="Bathhouses were, and still is, an egalitarian space. Parents come with their children, friends come with their old classmates, businessmen with their coworkers, or just individuals. Bathhouses has the effect of lowering peoples guards, allowing them to open up and relax. The heat from the hot water and saunas also releases natural body chemicals that relieves stress. "
+            text="Bathhouses were and still are an egalitarian space. Parents come with their children, friends come with their old classmates, professionals with their coworkers, or just individuals. Bathhouses have the effect of soothing people's mental state, allowing them to open up and relax. The heat from the hot water and saunas also releases natural body chemicals that relieve stress."
           />
         </div>
       </div>
@@ -48,7 +48,7 @@ const page = () => {
             <div className="w-[260px] h-[180px] relative">
               <Image
                 src="/assets/Architecture/8_Therme/ref_5.jpeg"
-                alt="sensory deprevation chamber structural diagram"
+                alt="urban oasis reference"
                 fill
                 style={ {objectFit: "cover"} }
               />
@@ -57,7 +57,7 @@ const page = () => {
             <div className="w-[260px] h-[180px] relative">
               <Image
                 src="/assets/Architecture/8_Therme/ref_4.jpeg"
-                alt="sensory deprevation chamber structural diagram"
+                alt="urban oasis reference"
                 fill
                 style={ {objectFit: "cover"} }
               />
@@ -72,10 +72,10 @@ const page = () => {
 
       <ProjectParagraph 
         className="mt-10"
-        text="Due to its history of being for the community, bathhouses are naturally affordable. By design, bathhouse facilities are large structures that  perform various services for a large number of people, such as hot steam, clean water, and a community space. This is different the definition of modern spas, which usually provide individualized services for the few that are wiling to pay the hefty price tag."
+        text="Due to its history of being for the community, bathhouses are naturally affordable. By design, bathhouse facilities are large structures that perform various services for a large number of people, such as hot steam, clean water, and a community space. This is different from the definition of modern spas, which usually provide individualized services for the few that are willing to pay the hefty price tag."
       />
       <ProjectParagraph 
-        text="Modern bathhouses such as Therme Bucharest integrate its location of being above a natural thermal source with modern innovations such as weather control, water filtration systems, and programmed irrigation to provide a tropical wellness experience that is accessible for all.  A full day access of 80 euros provides visitors to various types pools, baths, saunas, and relaxation areas, as well as any activities planned by the Therme team. "
+        text="Modern bathhouses such as Therme Bucharest integrate their location of being above a natural thermal source with modern innovations such as weather control, water filtration systems, and programmed irrigation to provide a tropical wellness experience that is accessible for all.  A full-day access of 80 euros provides visitors with various types of pools, baths, saunas, and relaxation areas, as well as any activities planned by the Therme team."
       />
 
       <div className="flex mt-10">
@@ -117,10 +117,10 @@ const page = () => {
 
       <ProjectParagraph 
         className="mt-16"
-        text="A wellness facility in inpired by Therme Bucharest will provide opportunity for people living in US urban centers a space for healing and relaxation at an affordable price. Architecturally, the facility also has to conform to the urban fabric of established US cities, which is far different from the sites of Therme facilities in europe, most of which are located on the outskirts of cities with ample space."
+        text="A wellness facility inpired by Therme Bucharest will provide opportunity for people living in US urban centers a space for healing and relaxation at an affordable price. Architecturally, the facility also has to conform to the urban fabric of established US cities, which is far different from the sites of Therme facilities in Europe, in which most are located at the outskirts of cities with ample space."
       />
       <ProjectParagraph 
-        text="In dense cities such as New York City, a stand alone wellness facility has to be integrated with a suitable architype.  One option is to integrate the wellness facility with an office and residential tower, locating the facility at the base. Another iteration is to transform historical buildings with declining use cases, such as vacant office towers or historical buildings, while respecting the original design character. For cities with large sprawl such as Los Angeles or Houston, the wellness facility has to be integrated with the major urban arteries which allow people to live, work and commute."
+        text="A wellness facility inspired by Therme Bucharest will provide an opportunity for people living in US urban centers a space for healing and relaxation at an affordable price. Architecturally, the facility also has to conform to the urban fabric of established US cities, which is far different from the sites of Therme facilities in Europe, in which most are located on the outskirts of cities with ample space."
       />
 
 

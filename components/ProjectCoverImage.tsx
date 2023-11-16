@@ -10,9 +10,6 @@ type propTypes = {
 }
 
 const ProjectCoverImage = ( { src, alt, width, height, object_fit }: propTypes ) => {
-  const test = object_fit
-  console.log(test)
-
   return (
     <div className="h-[600px] w-[420px] relative">
         <Image 

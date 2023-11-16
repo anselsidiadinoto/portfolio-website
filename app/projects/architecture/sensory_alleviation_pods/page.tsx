@@ -27,12 +27,16 @@ const page = () => {
             critic_email="llr25@columbia.edu"
           />
           <ProjectParagraph
-            text="Traveling in New York City is never as smooth as it supposed be. Heavy pedestrian traffic requires constant attentiveness, noise pollution from police sirens, vibrations from the subway, all contribute to the an numbing of people’s sensory instruments. Long term exposure to these sensory-overload conditions can significantly impact the mental well-being of New Yorkers - many show symptoms of stress, anxiety, and depression after staying merely a year in New York City."
+            text="Residents in major urban cities such as New York City are exposed to a high level of sensory overload on a daily basis in the form of excessive sounds, smells, and various hazards. This combined with high-intensity lifestyles and careers significantly affects their mental-wellbeing. Many New Yorkers claim to show symptoms of stress, anxiety, and depression after living merely a year in the city."
             className="mt-5"
           />
           <ProjectParagraph
-            text="Although stress alleviation does exist in forms of yoga, exercise, and meditation, I propose a solution that taps directly in the main infrastructure of New York City: Sensory deprivation pods readily available outside subway stations; An opportunity to totally unwind and disconnect in hopes for a rejuvenated metal state afterwards."
+            text="For a lot of people, the allure of living in cities is the various activities that might seem to offset their intense lifestyle such as dinners, bars, concerts, and gatherings, though these activities at times focus more on redirecting the sense of dread rather than solely improving mental-wellbeing."
           />
+          <ProjectParagraph
+            text="Sensory Alleviation chapter 1 explores the use of sensory deprivation pods to conveniently recharge one’s mental state. Connected directly to transit stations, people could escape the sensory-overload environment of New York City for a quick bathe and mental recharge. "
+          />
+
         </div>
       </div>
 

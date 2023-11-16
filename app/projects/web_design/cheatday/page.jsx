@@ -23,40 +23,38 @@ const page = () => {
 
         <div>
           <ProjectHeader
-            date="Fall 2019"
-            title="Sensory Alleviation ch.2"
+            date="Spring 2023"
+            title="Cheatday Donuts"
             subtitle="Store management system for a Balinese donut shop"
             description= "HTML, Javascript, CSS, Node, Express, PostgreSQL"
           />
-          <div className="mt-4">
+          <div className="mt-4 border border-black flex justify-center py-1 cursor-pointer
+                          hover:text-white hover:border-black hover:bg-black">
             <a 
               target="_blank"
               href="https://github.com/anselsidiadinoto/cheatdaydonuts"
               rel="noopener noreferrer"
-              className="font_primary text-gray-300 border border-gray-300 py-1 px-4 rounded-sm
-                          hover:text-white hover:border-black hover:bg-black"
+              className="font_primary"
             >
               view project on GitHub
             </a>
           </div>
 
           <ProjectParagraph
-            text="This project is a simple full-stack website that consists of customer-facing menu form and an administrative-facing management dashboard."
+            text="This project is a simple full-stack website that consists of a customer-facing menu form and an administrative-facing management dashboard."
             className="mt-5"
           />
           <ProjectParagraph
-            text="Customers are able to view, add, and edit menu items and add them into an active shopping cart session, as well as specifying the delivery information for the order form. Once the order form is submitted, the order information are posted into a PSQL database. Shop admins will verify the order items and confirm order via the provided contact information"
+            text="Customers are able to view, add, and edit menu items and add them into an active shopping cart session, as well as specify the delivery information for the order form. Once the order form is submitted, the order information is posted into a PSQL database. Shop admins will verify the order items and confirm the order via the provided contact information"
           />
           <ProjectParagraph
-            text="Shop owners are able to add, edit, and delete menu items from the dashboard, as well as uploading menu images stored in the cloudinary API.  If store wants to remove a menu item from the store front without deleting it, the item can be moved to inactive."
+            text="Shop owners can add, edit, and delete menu items from the dashboard, as well as upload menu images stored in the Cloudinary API.  If a store wants to remove a menu item from the storefront without deleting it, the item can be moved to inactive."
             className=""
           />
           <ProjectParagraph
             text="In the dashboard orders section, owners can view current order forms with their information, generate invoices, as well as marking an order as completed. The dashboard also provides a summary of the number of items that needs to be made on a current order period. "
             className=""
           />
-
-
         </div>
       </div>
 
@@ -65,21 +63,21 @@ const page = () => {
         <div className="flex items-center">
           <div className="font_primary text-md mr-2 text-gray-300">view code for:</div>
           <LinkButton
-            href="/"
+            href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/src/order_item/orderRoutes.js"
             text="storefront routes"
           />
         </div>
 
         <LinkButton 
-          href="/"
+          href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/src/order_item/controller.js"
           text="storefront queries"
         />
         <LinkButton 
-          href="/"
+          href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/src/menu_item/adminRoutes.js"
           text="admin routes"
         />
         <LinkButton 
-          href="/"
+          href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/src/menu_item/controller.js"
           text="admin queries"
         />
       </div>
@@ -89,7 +87,7 @@ const page = () => {
         <div className="w-full h-[800px] relative">
           <Image
             src="/assets/Web_design/Cheatday/Cheatday_diagram.png"
-            alt="sensory deprivation chamber diagram"
+            alt="cheatday routing diagram"
             fill
             style={ {objectFit: "contain"} }
           />
@@ -104,18 +102,18 @@ const page = () => {
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_1.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday home"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://cheatdaydonuts.herokuapp.com/"
                   text="visit homepage"
                 />
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/order-menu.ejs"
                   text="view code"
                 />
               </div>
@@ -125,14 +123,14 @@ const page = () => {
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_2.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday add info"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/order-delivery-info.ejs"
                   text="view code"
                 />
               </div>
@@ -141,26 +139,24 @@ const page = () => {
       </div>
 
     <div className="font_primary text-3xl mt-10">Admin pages</div>
-
-
       <div className="flex mt-3">
           <div className="flex justify-between w-[740px]">
             <div>
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_3.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday admin menu"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://cheatdaydonuts.herokuapp.com/admin/general"
                   text="visit admin menu"
                 />
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/admin-general.ejs"
                   text="view code"
                 />
               </div>
@@ -170,18 +166,18 @@ const page = () => {
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_4.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday admin overview"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://cheatdaydonuts.herokuapp.com/admin/orders"
                   text="visit admin overview"
                 />
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/admin-orders-overview.ejs"
                   text="view code"
                 />
               </div>
@@ -195,18 +191,18 @@ const page = () => {
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_5.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday admin orders"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://cheatdaydonuts.herokuapp.com/admin/orders/current"
                   text="visit admin orders"
                 />
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/admin-orders.ejs"
                   text="view code"
                 />
               </div>
@@ -216,18 +212,18 @@ const page = () => {
               <div className="w-[360px] h-[410px] relative">
                 <Image
                   src="/assets/Web_design/Cheatday/site_images/cheatday_6.png"
-                  alt="sensory deprevation chamber structural diagram"
+                  alt="cheatday admin invoice"
                   fill
                   style={ {objectFit: "cover"} }
                 />
               </div>
               <div className='flex gap-3 mt-3'>
                 <LinkButton
-                  href="/"
+                  href="https://cheatdaydonuts.herokuapp.com/admin/orders/invoice/49"
                   text="visit admin invoice"
                 />
                 <LinkButton
-                  href="/"
+                  href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/views/admin-orders-invoice.ejs"
                   text="view code"
                 />
               </div>
@@ -235,22 +231,19 @@ const page = () => {
           </div>
       </div>
 
-
-
       <div className="flex items-center mt-10">
         <div className="font_primary text-3xl mr-5">Database schema</div>
         <LinkButton 
-          href="/"
+          href="https://github.com/anselsidiadinoto/cheatdaydonuts/blob/main/bin/sql/cheatday_donuts_db.sql"
           text="view SQL"
         />
       </div>
 
-      
-      <div className="flex mt-5">
-        <div className="w-[640px] h-[800px] relative">
+      <div className="flex mt-0">
+        <div className="w-[550px] h-[700px] relative">
           <Image
             src="/assets/Web_design/Cheatday/cheatday_schema.png"
-            alt="sensory deprivation chamber diagram"
+            alt="cheatday database schema"
             fill
             style={ {objectFit: "contain"} }
           />

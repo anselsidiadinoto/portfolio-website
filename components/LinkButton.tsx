@@ -6,7 +6,7 @@ type propTypes = {
   text: string;
 }
 
-const LinkButton = ({ href, text, }: propTypes) => {
+const LinkButton = ({ href, text }: propTypes) => {
   return (
     <a 
       target="_blank"

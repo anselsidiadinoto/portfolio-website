@@ -22,7 +22,6 @@ export default function RootLayout({
           <div className="h-full bg-white px-10">
             <div className="w-[1300px] h-auto my-0 mx-auto flex">
               <div className="side h-[1000px]">
-                <TopNav />
                 <SideNav />
               </div>
               <div className='flex w-full'>

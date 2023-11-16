@@ -27,11 +27,11 @@ const page = () => {
             critic_email="llr25@columbia.edu"
           />
           <ProjectParagraph
-            text="‘Sensory deprivation chamber’ builds upon the idea of de-stressing beyond the individualized experience of sensory deprivation pods. The idea is to repurpose an abandoned train station in 91st street and Broadway, into a sound isolated landscaping area. The form is inspired from the gentle curves of blankets that reminds people of resting in their beds at home. Note that only sound is isolated. A glass window exists on the border of the platform level to observe the passing trains. While people are at the landscaping, they can still feel the subway lights and vibrations."
+            text="‘Sensory deprivation chamber’ builds upon the idea of de-stressing beyond the individualized experience of sensory deprivation pods. The idea is to repurpose an abandoned train station on 91st Street and Broadway into a sound isolated landscaping chamber, which is inspired by the gentle curves of soft blankets. Only sound is isolated, a continuous glass window exists on the border of the platform level to observe the passing trains. While people are at the landscaping, they can still feel the subway lights and vibrations."
             className="mt-5"
           />
           <ProjectParagraph
-            text="This proposal is a mid-way solution to the sensory deprivation experience, in contrast to the extreme total isolation in the pods in chapter 1. While the pods act as an idealization of this idea of freeing oneself from sensory overload, this proposal aims for a more practical approach"
+            text="This proposal is a moderate solution to sensory deprivation, in contrast to the total isolation of the pods in Chapter 1. The previous pods act as an idealization of freeing oneself from sensory overload, while this proposal aims at a more practical approach."
           />
         </div>
       </div>
@@ -65,7 +65,7 @@ const page = () => {
 
     <ProjectParagraph 
       className="mt-32"
-      text="Visitors enter through the side stairs, then are given an option to store their belongings at self-store lockers, all managed by an online management system. Visitors may also reserve their spot in advance, since the area is maintained at a certain occupancy level."
+      text="Visitors enter through the side stairs and then are given an option to store their belongings at self-storage lockers, all managed by an online management system. Visitors may also reserve their spot in advance since the area is maintained at a certain occupancy level."
     />
     <ProjectParagraph 
       text="The platform is surfaced with Isoprene rubber for a soothing, soft feel, standing above an undulating CNC wood framing. (detail 1)"
@@ -158,7 +158,7 @@ const page = () => {
 
       <ProjectParagraph 
         className="mt-16"
-        text="A major part of the form-finding process is using the appropriate tools that supports subdivision surface modeling such as 3DS Max, in contrast to traditional CAD softwares such as AutoCad, Revit, or Rhinoceros. When the form is finalized, the 3D representation of the design is used to further study possible structural strategies"
+        text="A major part of the form-finding process is using the appropriate tools that support subdivision surface modeling such as 3DS Max, in contrast to traditional CAD software such as AutoCAD, Revit, or Rhinoceros. When the form is finalized, the 3D representation of the design is used to further study possible structural strategies"
       />
 
       <div className="flex mt-10">

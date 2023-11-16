@@ -123,7 +123,7 @@ export default function Home() {
 
         <Link 
           className={`w-[236px] h-[229px] absolute left-[259px] top-[442px] text-white hover:text-black`}
-          href="/"
+          href="/projects/web_design/shapearoo"
         >
           <Image 
               src="/assets/Web_design/Shapearoo/site_images/shapearoo_home.png"
@@ -190,7 +190,7 @@ export default function Home() {
 
         <Link 
           className={`w-[235px] h-[119px] absolute left-[519px] top-[711px] text-white hover:text-black`}
-          href="/"
+          href="/projects/architecture/modelmaking"
         >
           <Image 
               src="/assets/Architecture/10_model_making/model_15.jpg"

@@ -1,7 +1,7 @@
 // SIDE NAVIGATION
 export const SIDE_NAV_ARCHITECTURE = [
   { 
-    href: '/', 
+    href: '/projects/architecture/urban_oasis', 
     key: 'urban_oasis', 
     label: 'urban oasis' 
   },
@@ -31,17 +31,17 @@ export const SIDE_NAV_ARCHITECTURE = [
     label: 'sensory alleviation chamber' 
   },
   { 
-    href: '/', 
+    href: '/projects/architecture/damen_green_metro', 
     key: 'damen_green', 
     label: 'damen green metro station' 
   },
   { 
-    href: '/', 
+    href: '/projects/architecture/parisian_hamster_hide', 
     key: 'parisian_hamster_hide', 
     label: 'parisian hamster hide' 
   },
   { 
-    href: '/', 
+    href: '/projects/architecture/modelmaking', 
     key: 'modelmaking', 
     label: 'modelmaking' 
   },
@@ -49,8 +49,21 @@ export const SIDE_NAV_ARCHITECTURE = [
 
 
 export const SIDE_NAV_WEB = [
-  { href: '/', key: 'cheatday', label: 'cheatday donuts' },
-  { href: '/', key: 'shapearoo', label: 'shapearoo' },
+  { 
+    href: '/projects/web_design/cheatday', 
+    key: 'cheatday', 
+    label: 'cheatday donuts' 
+  },
+  { 
+    href: '/projects/web_design/shapearoo', 
+    key: 'shapearoo', 
+    label: 'shapearoo' 
+  },
+  { 
+    href: '/projects/web_design/portfolio', 
+    key: 'portfolio', 
+    label: 'portfolio' 
+  },
 ];
 
 export const SIDE_NAV_MISC = [

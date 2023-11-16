@@ -8,7 +8,7 @@ const TopNav = () => {
     </div>
 
     <div className="flex gap-3">
-      <Link className="hover:link_hover_normal" href="/">
+      <Link className="hover:link_hover_normal" href="/about">
         about
       </Link >
     </div>

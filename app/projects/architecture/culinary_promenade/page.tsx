@@ -26,11 +26,11 @@ const page = () => {
             critic_email="ck2540@columbia.edu"
           />
           <ProjectParagraph
-            text="The rich processes involved in cooking can be used to teach foundational knowledge. Instead of cooking as a goal like in traditional culinary institutes, my school uses cooking as a means to education. Teaching physics by analyzing oven mechanics, biology by picking fruits in the greenhouse, and history by studying the cultural aspects of food. "
+            text="The rich processes involved in cooking can be used to teach foundational knowledge. Instead of cooking as a goal like in traditional culinary institutes, 'Culinary Promenade' uses cooking as a means of education. Teaching physics by analyzing oven mechanics, biology by picking fruits in the greenhouse, and history by studying the cultural aspects of food. "
             className="mt-5"
           />
           <ProjectParagraph
-            text="The architectural manifestation of this project is a design that is highly dynamic to reflect the unique  approach to education, with spaces blending together, and intersections that create interstitial spaces needed for education."
+            text="The architectural manifestation of this project is a design that is highly dynamic to reflect the unique approach to education, with spaces blending together, and intersections that create interstitial spaces needed for education."
           />
         </div>
       </div>
@@ -38,7 +38,7 @@ const page = () => {
 
       <div className="flex justify-between mt-10 mb-10">
         <div className="w-[420px] font_primary italic mt-10">
-          This project takes an existing abandoned school at 350 E 10th Street, East Village New York, repurposed the existing structure as well as adding necessary improvement, and finally integrating a ‘Greenhouse Promenade’
+          This project takes an existing abandoned school at 350 E 10th Street, East Village New York, repurposes the existing structure as well as adding necessary improvements, and finally integrates a ‘Greenhouse Promenade’
         </div>
         <div className="w_col_main h-40 relative">
           <Image
@@ -52,7 +52,7 @@ const page = () => {
 
 
       <ProjectParagraph
-        text="The culinary school features a ‘greenhouse promenade’, which is a vegetation library that is represented as a grand walkway spanning through three levels. Here students can learn from fresh ingredients and produce that will be used for their cooking courses. A catalog of nutritional facts are given to students to the plants, which are organized into three main areas which are vegetables, herbs, and wheats."
+        text="The culinary school features a ‘greenhouse promenade’, which is a vegetation library that is represented as a grand walkway spanning through three levels. Here students can learn from fresh ingredients and produce that will be used for their cooking courses. A catalog of nutritional facts is given to students about the plants, which are organized into three main areas which are vegetables, herbs, and wheat."
       />
 
 
@@ -87,7 +87,7 @@ const page = () => {
       </div>
 
       <ProjectParagraph
-        text="Classrooms can be rearranged in various ways depending on the goals of the courses and instructors. This is possible by using a movable working station equiped with cooking and study essentials. The flexible organization allows for more collaboration for learning, or more privacy during lectures and exams."
+        text="Classrooms can be rearranged in various ways depending on the goals of the courses and instructors. This is possible by using a movable working station equipped with cooking and study essentials. The flexible organization allows for more collaboration for learning, or more privacy during lectures and exams."
       />
 
       <div className="flex flex-col w-[660px] mt-20 mb-20">
@@ -115,7 +115,7 @@ const page = () => {
 
 
       <ProjectParagraph
-        text="There are three types of vegetation placeholders. The first allows small plants and herbs to grow in a rotatable platform, allowing for ease of viewing and watering. The second is a two level stack suited for medium size plants requiring more space to grow. The third is large and open, allowing tall wheat plans such as paddy and corn to grow optimally. All of these placeholders are equipped with heating and ventilation systems enabling all-year growing conditions."
+        text="There are three types of vegetation placeholders. The first allows small plants and herbs to grow in a rotatable platform, allowing for ease of viewing and watering. The second is a two-level stack suited for medium-sized plants requiring more space to grow. The third is large and open, allowing tall wheat plans such as paddy and corn to grow optimally. All of these placeholders are equipped with heating and ventilation systems enabling all-year growing conditions."
       />
 
       <div className="flex justify-end">

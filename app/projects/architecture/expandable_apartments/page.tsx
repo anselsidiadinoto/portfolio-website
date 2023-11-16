@@ -26,11 +26,11 @@ const page = () => {
             critic_email="aat2183@columbia.edu"
           />
           <ProjectParagraph
-            text="Rising rent prices in New York city over the years have made it difficult for many people to continue living in Manhattan, let alone owning a condo. Ironically, there are a large growing number of empty lots as a direct result of people abandoning the city for more affordable housing."
+            text="Rising rent prices in New York city over the years have made it difficult for many people to continue living in Manhattan, let alone owning a condo. Ironically, there is a large growing number of empty lots as a direct result of people abandoning the city for more affordable housing."
             className="mt-5"
           />
           <ProjectParagraph
-            text="‘Expandable Apartments’ tries to revaluate those empty buildings by applying design strategies inspired by incremental housing, adding flexibility for future New Yorker residents to gradually build and improve their homes "
+            text="‘Expandable Apartments’ tries to revaluate those empty buildings by applying design strategies inspired by incremental housing, adding flexibility for future New Yorker residents to gradually build and improve their homes."
           />
         </div>
       </div>
@@ -62,22 +62,22 @@ const page = () => {
               style={ {objectFit: "contain"} }
             />
           </div>
-          <div className="font_desc w-[370px] h-auto flex flex-col gap-10 pt-3">
+          <div className="font_desc w-[370px] h-auto flex flex-col gap-8 pt-3">
             <div>
               <p>Site A</p>
               <p className="mt-1 leading-6">This site is located in Central Harlem with ease of access to the downtown metro lines, bike paths, as well as living amenities such as hospitals, daycares, schools, and parks. Living here would allow a more efficient lifestyle as living amenities in Harlem are less expensive.</p>
             </div>
             <div>
               <p>Site B</p>
-              <p className="mt-1 leading-6">This site is located in Upper East Side, and it is relatively quiter than most parts of Manhattan. The most important aspect of this site is the close proximity to Central park, which allows ease of work and life balance in the city.</p>
+              <p className="mt-1 leading-6">This site is located in Upper East Side, and it is relatively quieter than most parts of Manhattan. The most important aspect of this site is the close proximity to Central Park, which allows ease of work and life balance in the city.</p>
             </div>
             <div>
               <p>Site C</p>
-              <p className="mt-1 leading-6">This site is located in Hell’s Kitchen, near the entertainment center of Manhattan such as Broadway. Though this area is less suitable for raising families, it is desirable for aspiring artists or career oriented individuals looking to dive into the cultural heart of New York City.</p>
+              <p className="mt-1 leading-6">This site is located in Hell’s Kitchen, near the entertainment center of Manhattan such as Broadway. Though this area is less suitable for raising families, it is desirable for aspiring artists or career-oriented individuals looking to dive into the cultural heart of New York City.</p>
             </div>
             <div>
               <p>Site D</p>
-              <p className="mt-1 leading-6">This site is located in Soho. The area is filled with upper- income avenues such as high-end retail and boutique dining. People living and working here generally already have a high annual income, but even they can benefit with incremental housing with their fast-paced lifestyles.</p>
+              <p className="mt-1 leading-6">This site is located in Soho. The area is filled with upper- income avenues such as high-end retail and boutique dining. People living and working here generally already have a high annual income, but even they can benefit from incremental housing with their fast-paced lifestyles.</p>
             </div>
           </div>
         </div>
@@ -145,7 +145,7 @@ const page = () => {
       </div>
 
       <ProjectParagraph
-        text="In ‘Expandable Apartments’, people don’t own apartments, rather they own lots of spaces. They choose an initial layout of their choice from a housing module catalogue, which will be constructed by certified workers. As people’s income rise, professions change, or family members grow, they can add new modules outwards and even upwards to accommodate their morphing lifestyles."
+        text="In ‘Expandable Apartments’, people don’t own apartments, rather they own lots of spaces. They choose an initial layout of their choice from a housing module catalog, which will be constructed by certified workers. As people’s income rises, professions change, or family members grow, they can add new modules outwards and even upwards to accommodate their morphing lifestyles."
       />
 
       <div className="flex justify-end mt-10">

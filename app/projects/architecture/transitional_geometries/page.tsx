@@ -26,11 +26,11 @@ const page = () => {
             critic_email="jcj2134@columbia.edu"
           />
           <ProjectParagraph
-            text="The goal of Transitional geometries was to first design a three- dimensional tiling system, to then create an efficient fabrication process which would allow me to produce at least 12 tiles. My tiles was inspired by the curvy patters of instant ramen noodles, which also bear similarities to microscopic views of cloth weavings. "
+            text="The goal of Transitional Geometries was to design a three-dimensional tiling system, and then construct an efficient fabrication process that would allow ease of mass production. My tiles were inspired by the curvy patterns of instant ramen noodles, which also have similarities to the microscopic form of cloth weavings. "
             className="mt-5"
           />
           <ProjectParagraph
-            text="The first challenge was deconstructing the ramen noodle’s two-dimensional underlying pattern, then to expand the system into the three-dimensions. But the more difficult challenge was the fabrication process, as I had to perfect the silicone molding and the concrete casting process."
+            text="I chose concrete as the main material because it gives a sense of solidity and weight. When concrete is shaped into undulating patterns, it almost feels uncanny because the material and the shape have seemingly contrasting spatial properties. My tile design doesn’t literally copy the ramen noodle’s shape, rather it deconstructs the ramen noodle’s underlying geometric pattern into a rational 2D form, then extrapolated into 3D."
           />
         </div>
       </div>
@@ -135,6 +135,7 @@ const page = () => {
         text="The undulating form is designed to be adaptable when fabricated at various scales"
         className='mt-20'
       />
+      
       <div className="flex justify-end mt-1 mr-16">
         <div className="w-[320px] h-[150px] relative">
           <Image
