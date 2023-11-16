@@ -21,13 +21,12 @@ const page = () => {
             title="Sensory Alleviation ch.2"
             subtitle="Sensory deprivation chamber"
             description=
-              "This project was a part of the architecture design studio CORE I (A4001) at 
-              Columbia University’s Graduate School of Architecture Planning and Preservation"
+              "This project was a part of the architecture design studio CORE I (A4001) at Columbia University's Graduate School of Architecture Planning and Preservation"
             critic="Lindy Roy"
             critic_email="llr25@columbia.edu"
           />
           <ProjectParagraph
-            text="‘Sensory deprivation chamber’ builds upon the idea of de-stressing beyond the individualized experience of sensory deprivation pods. The idea is to repurpose an abandoned train station on 91st Street and Broadway into a sound isolated landscaping chamber, which is inspired by the gentle curves of soft blankets. Only sound is isolated, a continuous glass window exists on the border of the platform level to observe the passing trains. While people are at the landscaping, they can still feel the subway lights and vibrations."
+            text="'Sensory deprivation chamber' builds upon the idea of de-stressing beyond the individualized experience of sensory deprivation pods. The idea is to repurpose an abandoned train station on 91st Street and Broadway into a sound isolated landscaping chamber, which is inspired by the gentle curves of soft blankets. Only sound is isolated, a continuous glass window exists on the border of the platform level to observe the passing trains. While people are at the landscaping, they can still feel the subway lights and vibrations."
             className="mt-5"
           />
           <ProjectParagraph

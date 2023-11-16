@@ -21,8 +21,7 @@ const page = () => {
             title="Sensory Alleviation ch.1"
             subtitle="Sensory deprivation pods"
             description=
-              "This project was a part of the architecture design studio CORE I (A4001) at 
-              Columbia University’s Graduate School of Architecture Planning and Preservation"
+              "This project was a part of the architecture design studio CORE I (A4001) at Columbia University Graduate School of Architecture Planning and Preservation"
             critic="Lindy Roy"
             critic_email="llr25@columbia.edu"
           />
