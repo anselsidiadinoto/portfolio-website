@@ -24,7 +24,7 @@ const page = () => {
         <div>
           <ProjectHeader
             date="Fall 2023"
-            title="Shapearoo"
+            title="Web Portfolio"
             subtitle="A showcase of my architecture and web design work"
             description= "Next.js, React, Typescript, TailwindCSS"
           />
