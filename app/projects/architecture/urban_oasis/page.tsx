@@ -65,7 +65,7 @@ const page = () => {
           </div>
 
         <div className="flex items-end h-full ml-5 flex-col justify-end gap-1">
-          <p className="font_desc h-min">Ancint baths and tratidional saunas</p>
+          <p className="font_desc h-min">Ancient baths and tratidional saunas</p>
         </div>
 
       </div>
