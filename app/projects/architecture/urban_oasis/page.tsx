@@ -79,7 +79,7 @@ const page = () => {
       />
 
       <div className="flex mt-10">
-        <div className="w-[420px] h-[220px] relative bg-orange-100">
+        <div className="w-[420px] h-[220px] relative">
           <Image
             src="/assets/Architecture/8_Therme/ref_1.jpeg"
             alt="therme_bucharest_1"
