@@ -132,6 +132,9 @@ const page = () => {
             </div>
             <ul className="text-[16px] list-disc pl-6 mt-2">
               <li>
+                Procurement lead of all electrical, lighting, and food service equipment for 42 ghost kitchens in the construction pipeline
+              </li>
+              <li>
                 Performed 3D scans and structural studies of acquired facilities in the Southwest US Region to estimate cost viability
               </li>
               <li>
