@@ -138,6 +138,12 @@ const page = () => {
       </div>
 
     <div className="font_primary text-3xl mt-10">Admin pages</div>
+
+    <div className="font_primary text-gray-300">
+      <div>Note: access to admin pages, please enter the following mock-up credentials:</div>
+      <div>username: <span className="text-black font-medium">username</span></div>
+      <div>password: <span className="text-black font-medium">password</span></div>
+    </div>
       <div className="flex mt-3">
           <div className="flex justify-between w-[740px]">
             <div>
