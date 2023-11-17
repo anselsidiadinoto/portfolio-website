@@ -30,7 +30,7 @@ const page = () => {
             className="mt-5"
           />
           <ProjectParagraph
-            text="I chose concrete as the main material because it gives a sense of solidity and weight. When concrete is shaped into undulating patterns, it almost feels uncanny because the material and the shape have seemingly contrasting spatial properties. My tile design doesn’t literally copy the ramen noodle’s shape, rather it deconstructs the ramen noodle’s underlying geometric pattern into a rational 2D form, then extrapolated into 3D."
+            text="I chose concrete as the main material because it gives a sense of solidity and weight. When concrete is shaped into undulating patterns, it almost feels uncanny because the material and the shape have seemingly contrasting spatial properties. My tile pattern deconstructs a ramen noodle’s underlying geometric pattern into a rational 2D form, then extrapolated into 3D."
           />
         </div>
       </div>
