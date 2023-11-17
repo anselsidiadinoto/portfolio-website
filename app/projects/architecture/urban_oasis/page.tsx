@@ -120,7 +120,7 @@ const page = () => {
         text="A wellness facility inpired by Therme Bucharest will provide opportunity for people living in US urban centers a space for healing and relaxation at an affordable price. Architecturally, the facility also has to conform to the urban fabric of established US cities, which is far different from the sites of Therme facilities in Europe, in which most are located at the outskirts of cities with ample space."
       />
       <ProjectParagraph 
-        text="A wellness facility inspired by Therme Bucharest will provide an opportunity for people living in US urban centers a space for healing and relaxation at an affordable price. Architecturally, the facility also has to conform to the urban fabric of established US cities, which is far different from the sites of Therme facilities in Europe, in which most are located on the outskirts of cities with ample space."
+        text="In dense cities such as New York City, a stand-alone wellness facility has to be integrated with a suitable archetype. One option is to integrate the wellness facility with an office and residential tower, locating the facility at the base. Another iteration is to transform historical buildings with declining use cases, such as vacant office towers or historical buildings, while respecting the original design character. For cities with large sprawl such as Los Angeles or Houston, the wellness facility has to be integrated with the major urban arteries which allow people to live, work, and commute."
       />
 
 
