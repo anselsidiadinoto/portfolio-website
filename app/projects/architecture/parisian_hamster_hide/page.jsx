@@ -105,7 +105,7 @@ const page = () => {
       <div className="flex mt-10">
         <div className="w-[500px] h-[340px] relative">
           <Image
-            src="/assets/Architecture/9_hamster_house/ref_1.jpg"
+            src="/assets/Architecture/9_hamster_house/ref_1.JPG"
             alt="hamster hide"
             fill
             style={ {objectFit: "cover"} }
