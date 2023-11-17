@@ -191,8 +191,8 @@ const page = () => {
       <div className="flex justify-end mt-20">
         <div className="w-[498px] h-[350px] relative">
           <Image
-            src="/assets/Architecture/3_Undulating_Transitional_Geometries/images/trans-1.JPG"
-            alt="transitional geometries mold process"
+            src="/assets/Architecture/3_Undulating_Transitional_Geometries/images/trans-1.jpg"
+            alt="transitional geometries"
             fill
             style={ {objectFit: "cover"} }
           />

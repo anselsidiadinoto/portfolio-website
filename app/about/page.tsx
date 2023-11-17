@@ -2,6 +2,7 @@ import ProjectCoverImage from '@/components/ProjectCoverImage'
 import ProjectHeader from '@/components/ProjectHeader'
 import ProjectParagraph from '@/components/ProjectParagraph'
 import Image from '@/node_modules/next/image'
+import Link from '@/node_modules/next/link'
 import React from 'react'
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
@@ -91,9 +92,18 @@ const page = () => {
             <div className="text-[24px]">
               Architecture Design Analyst
             </div>
-            <div className="text-[24px]">
-              Therme US - New York City, NY
+            <div className="text-[24px] flex gap-4">
+              <div>
+                Therme US - New York City, NY
+              </div>
+              <Link
+                href="/projects/architecture/urban_oasis"
+                className= "text-[15px] font_primary h-[32px] text-gray-300 border border-gray-300 py-1 px-4 rounded-sm hover:text-black hover:border-black hover:bg-gray-100"
+              >
+                view work
+              </Link>
             </div>
+
             <ul className="text-[16px] list-disc pl-6 mt-2">
               <li>
                 Adapted the specifications of Therme wellness resorts in Europe into easy-to-understand diagrams and visualizations for stakeholder presentations by leveraging architectural 3D modeling and rendering
@@ -115,7 +125,10 @@ const page = () => {
               Real Estate Analyst
             </div>
             <div className="text-[24px]">
-              CloudKitchens - Los  Angeles, CA
+              <div>
+                CloudKitchens - Los  Angeles, CA
+              </div>
+              
             </div>
             <ul className="text-[16px] list-disc pl-6 mt-2">
               <li>
@@ -137,8 +150,16 @@ const page = () => {
             <div className="text-[24px]">
               Architecture Design Intern
             </div>
-            <div className="text-[24px]">
-              Perkins and Will - Chicago, IL
+            <div className="text-[24px] flex gap-4">
+              <div>
+                Perkins and Will - Chicago, IL
+              </div>
+              <Link
+                href="/projects/architecture/damen_green_metro"
+                className= "text-[15px] font_primary h-[32px] text-gray-300 border border-gray-300 py-1 px-4 rounded-sm hover:text-black hover:border-black hover:bg-gray-100"
+              >
+                view work
+              </Link>
             </div>
             <ul className="text-[16px] list-disc pl-6 mt-2">
               <li>
