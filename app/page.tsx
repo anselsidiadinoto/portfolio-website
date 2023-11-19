@@ -8,7 +8,7 @@ import HomeImage from "@/components/HomeImage";
 export default function Home() {
   return (
 
-    <div className="mt-[130px] ml-[30px] pl-[35px]">
+    <div className="mt-[30px] ml-[30px] pl-[35px]">
 
       <div className="relative">
 
